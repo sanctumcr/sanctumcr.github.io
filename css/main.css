@@ -1,0 +1,49 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+section {
+    width: 40%;
+    margin: 0 auto;
+}
+h1 {
+    font-weight:400;
+    font-size:xx-large;
+}
+._block {
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.hljs {
+    background: #f3f2f6;
+    font-size:larger;
+    color: gray;
+    font-weight:500;
+    padding: 15px;
+}
+p {
+    font-size:larger;
+}
+._img {
+    margin-top: 100px;
+}
+h5 {
+    font-weight: 100;
+}
+h4 {
+    font-weight: 100;
+    text-align: center;
+}
+table {
+    width: 100%;
+    border: 1px solid;
+    border-spacing: 0;
+    text-align: left;
+}
+td, th {
+    border: 1px solid;
+    vertical-align: top;
+}
+li {
+    font-size: larger;
+}
